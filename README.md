@@ -8,7 +8,7 @@ Ejercicio de demostración
 Aplicación, tipo java con spring (boot) framework para la demostración de la utilización y creación de una API rest. 
  
 ## Documentación 
-Información disponible en: https://www.rarcos.com/api-rest-con-spring/
+Información disponible en: https://rarcos.com/API_Rest_con_Spring/
 
 ## spring-boot-rest-example
 Simple example of a REST Service in Spring Boot
